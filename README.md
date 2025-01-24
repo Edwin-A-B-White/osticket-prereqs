@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 1. **Create a Virtual Machine on Microsoft Azure**
    - Log into your **Azure** portal.
    - Create a new Virtual Machine with Windows 10 (4 vCPUs).
-   - Name the VM `osticket-vm` and set the username to `labuser` with the password `osTicketPassword1!`.
+   - Create a name, username and password for the Virtual Machine and save it to a notepad to remember it.
 
    <p>
    <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Azure VM creation process"/>
